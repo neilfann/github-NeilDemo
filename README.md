@@ -9,5 +9,7 @@ Sample section testing edit
 Test Purpose
 
 ##Deployment
+Deployment update
 
 ##How to contribute
+Contribute update
