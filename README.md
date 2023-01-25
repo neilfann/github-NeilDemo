@@ -1,2 +1,4 @@
 # github-NeilDemo
-Neil Fanning Demo
+## Introduction
+##Purpose
+##How to contribute
