@@ -19,7 +19,5 @@ Deployment update
 
 Contribute update
 Contriute up2
-##Copyright notice
-Test updated other branch
 Notice added
 Copyright.
